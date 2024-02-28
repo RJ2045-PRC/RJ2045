@@ -13,7 +13,7 @@
 ### Metal Interface
 ### S1 2024
 #### CHE 5886 Advanced biopolymers
-##### Executive Group report #1 polysaccharides
+##### Executive Group report 1 polysaccharides
 ##### PDFs
 -  [[S1 2024/CHE5886 Advanced biopolymers/Group Report 1 Polysaccharides\|Group Report 1 Polysaccharides]]
 - [[S1 2024/CHE5886 Advanced biopolymers/Notes\|Notes]]
