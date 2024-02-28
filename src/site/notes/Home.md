@@ -3,9 +3,9 @@
 ---
 
 ### KEY
--  [[key/Tools\|Tools]]
-- [[key/Terms\|Terms]]
-- [[key/Tools\|Tools]]
+-  [[key/KEY-Tools\|KEY-Tools]]
+- [[key/KEY-Terms\|KEY-Terms]]
+- [[key/KEY-Tools\|KEY-Tools]]
 ### Materials Text books
 - [[Materials Science and Engineering An Introduction (William D. Callister, Jr., David G. Rethwisch) (Z-Library).pdf]]
 - [[固态相变原理 (朱景川, 来忠红) (Z-Library).pdf]]
@@ -16,12 +16,12 @@
 ##### Executive Group report 1 polysaccharides
 ##### PDFs
 -  [[S1 2024/CHE5886 Advanced biopolymers/Group Report 1 Polysaccharides\|Group Report 1 Polysaccharides]]
-- [[S1 2024/CHE5886 Advanced biopolymers/Notes\|Notes]]
+- [[S1 2024/CHE5886 Advanced biopolymers/Advanced biopolymers_Notes\|Advanced biopolymers_Notes]]
 - [[S1 2024/CHE5886 Advanced biopolymers/WHY\|WHY]]
 #### ENG 5001 Advanced Engineering data analysis
 #### ENG 5100 Professional Engineer In Organisation And Society
 #### MTE 5882 Advanced polymeric materials
-[[S1 2024/MTE5882  Advanced polymeric materials/Notes\|Notes]]
+[[S1 2024/MTE5882  Advanced polymeric materials/Advanced polymeric materials_Notes\|Advanced polymeric materials_Notes]]
 ##### PDFs
 - [[Week 1 Notes.pdf]]
 ##### Slides
