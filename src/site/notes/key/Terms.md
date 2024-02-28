@@ -60,7 +60,7 @@ Coherency strain refers to the strain that develops in a crystal due to the latt
 
 #### Sequence isomerism 
 - 序列异构体 [[MTE5882_L1_2023.pdf#page=26&selection=19,1,21,1|MTE5882_L1_2023, page 26]]
-![Pasted image 20240227193212.png|316](/img/user/Pasted%20image%2020240227193212.png)
+![Pasted image 20240227193212.png|316](/img/user/S1%202024/screenshot/Pasted%20image%2020240227193212.png)
 
 - CF: Isomers VS Allotropes
 
