@@ -12,7 +12,7 @@
 $$
 M = N * M_{mon}
 $$
-![Pasted image 20240227191342.png|300](/img/user/Pasted%20image%2020240227191342.png)
+![Pasted image 20240227191342.png|300](/img/user/S1%202024/screenshot/Pasted%20image%2020240227191342.png)
 
 Molar mass: 摩尔质量 （ $g.mol^{-1}$ ）
 $M_{mon} = 2 * 12 + 4 * 1 = 28 g/mol$
@@ -20,7 +20,7 @@ Avagadro's number: ( $6.02*10^{23}$ )
 	- The numberof molecules in a mole
 
 1. Sequence isomerism [[key/Terms#Sequence isomerism\|Terms#Sequence isomerism]]
-![Pasted image 20240227194635.png|292](/img/user/Pasted%20image%2020240227194635.png)
+![Pasted image 20240227194635.png|292](/img/user/S1%202024/screenshot/Pasted%20image%2020240227194635.png)
 
 3. Structural isomerism [[key/Terms#Structural isomerism\|Terms#Structural isomerism]]
 
