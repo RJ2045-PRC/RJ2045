@@ -33,11 +33,46 @@ Coherency strain refers to the strain that develops in a crystal due to the latt
 ### Polymer
 
 #### PD/MW  dispersion
+Dispersity D:
+$$
+
+D=\frac{M_{w}}{M_{n}}
+$$
+number fraction: $n_{i}$ refers to the number fraction of selected chain in the mixture
+Number-average molar mass $M_{n}$  and weight-average molar mass $M_w$
+$$
+M_{n}=\frac{\sum (n_{i}*M_{i}) }{\sum n_{i}}
+$$
+$$
+M_{w}=\frac{\sum(n_{i}*M_{i}^2)}{\sum(n_{i}*M_{i})}
+$$
+<span style="background:#fdbfff">Another definition</span>
+Define the molar masses in terms of **moments**
+$$
+M_{k}=\sum_{N}n_{N}*M_{N}^{k}
+$$
+Hence, for number-average molar mass $M_n$:
+$$
+M_{n}=\frac{M_{1}}{M_{0}}=\frac{\sum_{N}n_{N}*M_{N}^1}{\sum_{N}n_{N}*M_{N}^0}=\frac{\sum_{N}n_{N}*M_{N}}{\sum_{N}n_{N}}
+$$
+And, for weight-average molar mass $M_w$
+$$
+M_{w}=\frac{M_{2}}{M_{1}}=\frac{\sum_{N}n_{N}*M_{N}^2}{\sum_{N}n_{N}*M_{N}^1}=\frac{\sum_{N}n_{N}*M_{N}^2}{\sum_{N}n_{N}*M_{N}}
+$$
+For z-average molar mass $M_z$
+$$
+M_{z}=\frac{M_{3}}{M_{2}}=\frac{\sum_{N}n_{N}*M_{N}^3}{\sum_{N}n_{N}*M_{N}^2}
+$$
+<span style="background:#fdbfff">More</span>
+In order to consider how $n_N$ changes as the reaction proceeds, introduce a number fraction as a Function of p, ie $n_{N}(ip)$
+	
+
 - PD/MW, or polydispersity Index (PDI), refers to a measure of the width of the molecular weight distribution (MWD) of a polymer. The MWD characterizes the distribution of molecules of different molecular weights in a polymer sample. A higher PDI value indicates a broader distribution of molecular weights, suggesting that the polymer sample is less uniform. Conversely, a lower PDI value signifies a narrower molecular weight distribution, indicating greater uniformity in the polymer sample. The PDI is calculated by dividing the weight-average molecular weight (Mw) of the polymer by its number-average molecular weight (Mn).
 - PD/MW，聚合物分子量分布的多分散性指数，polydispersity index (PDI)，描述聚合物样品中不同分子量分子的分布情况。PD/MW 或者 PDI 值越大，分子量分布越宽，聚合物均一性越差。用重均分子量（Mw）除以数均分子量均分子量 (Mn) 得到的。
 
 - In the field of polymers, dispersion generally refers to the uniformity of distribution of one substance (such as fillers, pigments, or other polymers) within another substance (usually a polymer matrix). Good dispersion means that these particles are evenly distributed throughout the matrix without clumping or phase separation, which is crucial for the physical, mechanical, and optical properties of the material. Dispersion not only affects the process ability of the material but also directly relates to the quality and performance of the final product.
 - Dispersion，分散性，分布均匀性，良好的分散性指微粒微粒在基体中均匀分布，没有形成团聚或者相分离。影响材料的材料的力学光学物理性能，还影响加工性能和最终质量。
+
 
 
 
@@ -90,3 +125,6 @@ Coherency strain refers to the strain that develops in a crystal due to the latt
 - **结构异构体**关注的是原子或官能团的连接方式。
 - **序列异构体**专注于高分子链中单体单位的排列顺序。
 - **立体异构体**关注的是具有相同分子式和结构的分子，但这些分子在空间中的原子三维方向不同。
+
+#### Overlap volume fraction 
+$\varphi=\frac{N*v_{mon}}{V}$
