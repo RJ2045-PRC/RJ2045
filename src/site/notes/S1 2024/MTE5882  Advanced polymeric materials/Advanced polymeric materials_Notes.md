@@ -86,7 +86,7 @@ m=N*m_{mon}=N*\frac{M_{mon}}{N_{A}}=5000*\frac{4*12+6}{6.022*10^{23}}=4.48*10^{-
 $$
 
 #### 2
-![Pasted image 20240229002857.png|625](/img/user/Pasted%20image%2020240229002857.png)
+![Pasted image 20240229002857.png|625](/img/user/S1%202024/screenshot/Pasted%20image%2020240229002857.png)
 Ans: \rho
 - $\rho = \frac{m}{v},m_{mon}=\frac{M_{mon}}{N_{A}},v_{mon}=\frac{m_{mon}}{\rho}$
 Mass of 1 monomer: 
@@ -101,7 +101,7 @@ $$
 
 
 #### 3
-![Pasted image 20240229002951.png|375](/img/user/Pasted%20image%2020240229002951.png)
+![Pasted image 20240229002951.png|375](/img/user/S1%202024/screenshot/Pasted%20image%2020240229002951.png)
 [[key/KEY-Terms#Overlap volume fraction\|KEY-Terms#Overlap volume fraction]] $\varphi$
 
 $$
@@ -120,7 +120,7 @@ $$
 $$
 
 #### 4
-![Pasted image 20240229155249.png](/img/user/Pasted%20image%2020240229155249.png)
+![Pasted image 20240229155249.png](/img/user/S1%202024/screenshot/Pasted%20image%2020240229155249.png)
 
 Dispersity D: [[key/KEY-Terms#PD/MW dispersion\|KEY-Terms#PD/MW dispersion]]
 $$
@@ -149,4 +149,32 @@ $M_{w}=\frac{n_{100}*M_{100}^2+n_{1000}*M_{1000}^2+n_{10000}*M_{10000}^2=\frac{1
 $$
 D=\frac{M_{w}}{M_{n}}=\frac{273656.7}{83750}=3.267
 $$
+
+### Quiz
+#### Quiz 1 
+[[Quiz 1_ review.pdf#page=1&selection=4,0,4,6|Quiz 1_ review, page 1]]
+##### Review
+###### Q 3
+![Q1Q3.png](/img/user/S1%202024/screenshot/Q1Q3.png)
+Three isomers of PVC (isotactic, syndiotactic and atactic)
+Meaning:
+[[Week 1 Notes.pdf#page=6&selection=160,0,160,10|Week 1 Notes, page 6]]
+- Isotactic:`all substituent groups are positioned on the same side of the polymer backbone`
+- Syndiotactic `The substituent groups alternate sides along the polymer backbone`
+- Atactic `the substituent groups are randomly arranged on both sides of the polymer backbone.`
+###### Q 5
+![Q1Q5.png](/img/user/S1%202024/screenshot/Q1Q5.png)
+Definition:
+- Concentrated solution: Polymer volume fraction is higher than the overlap volume fraction. `polyer chain are in close proximity and interact significantly with one another`
+- Semi-dilute solution: A state between dilute and concentrated solution. Polymer volume fraction is greater than the overlap volume fraction, but not so high as to be considered concentrated. `there is some interaction between polymer chain, but it's not as extensive as in concentrated solution`
+- Dilute solution: Polymer volume fraction is less than the overlap volume fraction `the chains do not overlap and there are negligible interactions between them`
+###### Q 10
+![Q1Q10.png](/img/user/S1%202024/screenshot/Q1Q10.png)
+[[Week 1 Notes.pdf#page=20&selection=0,7,26,1|Week 1 Notes, page 20]]
+$M_{n}$ `SEC (GPC), Size-exclusion chromatography/gel permeation chromatography`
+$M_{w}$ `light scattering`
+NMR `Nuclear magnetic resonance` `Structural characterization`
+##### Summary
+- Overlap volume fraction
+- Definition: $M_{w}, M_{n}, D,n, M_{0}^{cop},M_{0}^{j}$ 
 
